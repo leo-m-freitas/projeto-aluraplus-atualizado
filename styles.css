@@ -77,6 +77,17 @@ body {
     transition: 0.2s;
 }
 
+.secundario__imagem--plataformas{
+    width: 65%;
+    margin: 0 6em;
+    transition: 0.2s;
+}
+
+.secundario__imagem--plataformas:hover {
+    width: 70%;
+    transition: 0.2s;
+}
+
 .secundario__imagem:hover{
     width: 70%;
     transition: 0.2s;
